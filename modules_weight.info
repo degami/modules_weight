@@ -1,0 +1,4 @@
+name = Modules Weight
+description = Modules Weight - updates modules weight.
+core = 7.x
+package = Util
